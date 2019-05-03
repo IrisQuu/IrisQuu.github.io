@@ -10,12 +10,14 @@ body{background-color:#EFF0F4;}
  .h-right{position:absolute;
         right:5%;top:35px;
         color: white;}
-.phone{padding: 2%;
+.phone{padding: 15px 0px;
 background-color: white;}
-.lock{margin:1%;
-padding: 2%;
+.img-phone{vertical-align:middle;}
+.lock{margin-top:2%;
+padding: 15px 0px;
  background-color: white;}
-input{border: none;outline: none;}
+.img-lock{vertical-align: middle;}
+input{border: none;outline: none; border-left: 2px;}
 .sign-in{height: 3.5rem;background-color:#5fc0cd; }
 .sign{text-align: center;
   color: white;font-size= 1.5rem;}
