@@ -12,14 +12,18 @@ body{background-color:#EFF0F4;}
         color: white;}
 .phone{padding: 15px 0px;
 background-color: white;}
-.img-phone{vertical-align:middle;}
+.img-phone{vertical-align:middle;
+     padding: 0 10px 0 14px;
+     height:27px;width:16px;}
 .lock{margin-top:2%;
 padding: 15px 0px;
  background-color: white;}
-.img-lock{vertical-align: middle;}
-input{border: none;outline: none; border-left: 2px;}
+.img-lock{vertical-align: middle;
+     padding: 0 10px 0 14px;
+     height:27px;width:16px;}
+input{border: none;outline: none; border-left: 2px solid #eaedee;}
 .sign-in{height: 3.5rem;background-color:#5fc0cd; }
-.sign{text-align: center;line-height: 35px;
+.sign{text-align: center;line-height: 45px;
   color: white;font-size= 1.5rem;}
 .forget{float:right;
   color:#5fc0cd;
