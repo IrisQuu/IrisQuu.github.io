@@ -1,0 +1,24 @@
+body{background-color:#EFF0F4;}
+.header{height: 5rem;
+      background-color:#5fc0cd; }
+ .h-left{position:absolute;
+        left:5%;top:35px;
+        color: white;}
+ .h-middle{position:absolute;
+        top:35px;left:47%;
+        color: white;}
+ .h-right{position:absolute;
+        right:5%;top:35px;
+        color: white;}
+.phone{padding: 2%;
+background-color: white;}
+.lock{margin:1%;
+padding: 2%;
+ background-color: white;}
+input{border: none;outline: none;}
+.sign-in{height: 3.5rem;background-color:#5fc0cd; }
+.sign{text-align: center;
+  color: white;font-size= 1.5rem;}
+.forget{float:right;
+  color:#5fc0cd;
+text-decoration:underline;}
