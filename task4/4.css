@@ -19,7 +19,7 @@ padding: 15px 0px;
 .img-lock{vertical-align: middle;}
 input{border: none;outline: none; border-left: 2px;}
 .sign-in{height: 3.5rem;background-color:#5fc0cd; }
-.sign{text-align: center;
+.sign{text-align: center;line-height: 35px;
   color: white;font-size= 1.5rem;}
 .forget{float:right;
   color:#5fc0cd;
