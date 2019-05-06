@@ -1,9 +1,17 @@
 * {margin: 0; padding:0;}
-html, body {height: 100%; }
+html, body {height: 100%; margin: 0; }
 .header{height: 4rem; width=100%;
       background-color:#5fc0cd; }
+.arrow{position: absolute; }
 .h-middle{text-align: center; vertical-align: middle;
         color: white;}
+.profile{height:10rem; wdith:100%;position: relative; }
+.b-ground{height: 10rem; wdith: 100%;}
+.touxiang{position:absolute;left:0px;
+          top:0px;z-index:-1;}
+.p-name{position: absolute; top: 35%;left: 60%;}
+.address{position: absolute; top: 60%;left: 60%;}
+
 .m1{height:rem;width:100%;
     border: 1px solid #E1E5E7;padding: 2%;}
 .skill{border-left: 5px solid #5fc0cd;}
