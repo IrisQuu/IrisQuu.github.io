@@ -2,8 +2,7 @@
 html, body {height: 100%; }
 .header{height: 4rem; width=100%;
       background-color:#5fc0cd; }
-.h-middle{position:absolute;
-        top:18px;left:47%;
+.h-middle{text-align: center; vertical-align: middle;
         color: white;}
 .m1{height:rem;width:100%;
     border: 1px solid #E1E5E7;padding: 2%;}
