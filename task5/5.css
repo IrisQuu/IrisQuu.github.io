@@ -9,7 +9,9 @@ body{height: 100%; margin: 0; }
 .b-ground{height: 10rem; wdith: 100%;
           position:absolute;left:0px;
           top:0px;z-index:-1;}
-.touxiang{}
+.touxiang{height: auto;
+          max-width: 100%; 
+          display: block; }
 .p-name{position: absolute; top: 35%;left: 60%;}
 .address{position: absolute; top: 60%;left: 62%;}
 .location{position: absolute; top: 60%;left: 60%;}
