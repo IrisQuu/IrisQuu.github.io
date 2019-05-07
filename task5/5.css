@@ -12,7 +12,7 @@ html, body {height: 100%; margin: 0; }
 .touxiang{}
 .p-name{position: absolute; top: 35%;left: 60%;}
 .address{position: absolute; top: 60%;left: 63%;}
-.where{position: absolute; top: 60%;left: 60%;}
+.location{position: absolute; top: 60%;left: 60%;}
 .m1{height:rem;width:100%;
     border: 1px solid #E1E5E7;padding: 2%;}
 .skill{border-left: 5px solid #5fc0cd;}
