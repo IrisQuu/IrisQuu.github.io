@@ -1,8 +1,8 @@
 * {margin: 0; padding:0;}
-html, body {height: 100%; margin: 0; }
+body{height: 100%; margin: 0; }
 .header{height: 4rem; width=100%;
       background-color:#5fc0cd; }
-.arrow{position: absolute; top:22px;}
+.arrow{position: absolute; top:20px;}
 .h-middle{position:absolute;top: 20px;left: 50%;
           color: white;font-size:1.2rem;}
 .profile{height:10rem; wdith:100%;position: relative; }
@@ -11,7 +11,7 @@ html, body {height: 100%; margin: 0; }
           top:0px;z-index:-1;}
 .touxiang{}
 .p-name{position: absolute; top: 35%;left: 60%;}
-.address{position: absolute; top: 60%;left: 63%;}
+.address{position: absolute; top: 60%;left: 62%;}
 .location{position: absolute; top: 60%;left: 60%;}
 .m1{height:rem;width:100%;
     border: 1px solid #E1E5E7;padding: 2%;}
