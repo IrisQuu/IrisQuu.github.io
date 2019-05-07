@@ -1,4 +1,4 @@
-* {margin: 0; padding:0;}
+* {margin: 0; padding: 0;}
 body{height: 100%; margin: 0; }
 .header{height: 4rem; width=100%;
       background-color:#5fc0cd; }
@@ -8,7 +8,10 @@ body{height: 100%; margin: 0; }
 .profile{height:10rem; wdith:100%;position: relative; }
 .b-ground{height: 10rem; wdith: 100%;
           position:absolute;left:0px;
-          top:0px;z-index:-1;}
+          top:0px;z-index:-1;
+          height: auto;
+          max-width: 100%; 
+          display: block; }
 .touxiang{height: auto;
           max-width: 100%; 
           display: block; }
