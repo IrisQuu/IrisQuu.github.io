@@ -1,30 +1,62 @@
 body{background-color:#EFF0F4;margin: 0;}
 .header{height: 5rem; width: 100%;
       background-color:#5fc0cd; }
- .h-left{position:absolute;
-        left:5%;top:35px;
-        color: white;}
- .h-middle{position:absolute;
-        top:35px;left:47%;
-        color: white;}
- .h-right{position:absolute;
-        right:5%;top:35px;
-        color: white;}
-.phone{padding: 15px 0px;
-background-color: white;}
-.img-phone{vertical-align:middle;
-     padding: 0 10px 0 14px;
-     height:27px;width:20px;}
-.lock{margin-top:2%;
-padding: 15px 0px;
- background-color: white;}
-.img-lock{vertical-align: middle;
-     padding: 0 10px 0 14px;
-     height:27px;width:16px;}
-input{border: none;outline: none; border-left: 2px solid #eaedee;}
-.sign-in{height: 3.5rem;background-color:#5fc0cd; }
-.sign{text-align: center;line-height: 45px;
-  color: white;font-size= 1.5rem;}
-.forget{float:right;
-  color:#5fc0cd;
-text-decoration:underline;}
+ .h-left{
+       position:absolute;
+       left:5%;
+       top:35px;
+       color: white;
+}
+ .h-middle{
+       position:absolute;
+       top:35px;
+       left:47%;
+       color: white;
+}
+ .h-right{
+       position:absolute;
+       right:5%;
+       top:35px;
+       color: white;
+}
+.phone{
+      padding: 15px 0px;
+      background-color: white;
+}
+.img-phone{
+      vertical-align:middle;
+      padding: 0 10px 0 14px;
+      height: 30px;
+      width: 30px;
+}
+.lock{
+      margin-top:2%;
+      padding: 15px 0px;
+      background-color: white;
+}
+.img-lock{
+      vertical-align: middle;
+      padding: 0 10px 0 14px;
+      height: 30px;
+      width: 30px;
+}
+input{
+      border: none;
+      outline: none; 
+      border-left: 2px solid #eaedee;
+}
+.sign-in{
+      height: 3.5rem;
+      background-color:#5fc0cd; 
+}
+.sign{
+      text-align: center;
+      line-height: 45px;
+      color: white;
+      font-size= 1.5rem;
+}
+.forget{
+      float:right;
+      color:#5fc0cd;
+      text-decoration:underline;
+}
