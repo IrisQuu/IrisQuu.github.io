@@ -1,28 +1,31 @@
-body{background-color:#EFF0F4;margin: 0;}
-.header{height: 5rem; width: 100%;
-      background-color:#5fc0cd; }
- .h-left{
+* {margin: 0; padding: 0;}
+body{margin：0; background-color:#EFF0F4;height: 100%;}
+.header{
+      height: 5rem; 
+      width=100%;
+      background-color:#5fc0cd; 
+}
+.h-left{
        position:absolute;
-       left:5%;
-       top:35px;
+       left:5%;top:30px;
        color: white;
 }
- .h-middle{
-       position:absolute;
-       top:35px;
-       left:47%;
+.h-middle{
+       text-align: center;
+       margin: 0 auto;
+       vertical-align: middle; 
+       padding-top:30px;
        color: white;
 }
- .h-right{
+.h-right{
        position:absolute;
        right:5%;
-       top:35px;
+       top:30px;
        color: white;
 }
 .phone{
-      padding: 15px 0px;
-      background-color: white;
-}
+      padding: 2%;
+      background-color: white;}
 .img-phone{
       vertical-align:middle;
       padding: 0 10px 0 14px;
@@ -30,8 +33,9 @@ body{background-color:#EFF0F4;margin: 0;}
       width: 30px;
 }
 .lock{
-      margin-top:2%;
-      padding: 15px 0px;
+      margin:1%;
+      width: 100%;
+      padding: 2%;
       background-color: white;
 }
 .img-lock{
@@ -42,7 +46,7 @@ body{background-color:#EFF0F4;margin: 0;}
 }
 input{
       border: none;
-      outline: none; 
+      outline: none;
       border-left: 2px solid #eaedee;
 }
 .sign-in{
@@ -51,12 +55,14 @@ input{
 }
 .sign{
       text-align: center;
-      line-height: 45px;
+      margin: 0 auto;
+      vertical-align: middle; 
+      padding-top:15px;
       color: white;
       font-size= 1.5rem;
 }
 .forget{
       float:right;
-      color:#5fc0cd;
-      text-decoration:underline;
-}
+      color:#5fc0cd;margin: 2%;
+      text-decoration:underline;}
+
