@@ -28,9 +28,7 @@ body{margin：0; background-color:#EFF0F4;height: 100%;}
       background-color: white;}
 .img-phone{
       vertical-align:middle;
-      padding: 0 10px 0 14px;
-      height 30px;
-      width 30px;
+      padding 0 10px 0 14px;
 }
 .lock{
       margin-top:2%;
@@ -39,9 +37,7 @@ body{margin：0; background-color:#EFF0F4;height: 100%;}
 }
 .img-lock{
       vertical-align: middle;
-      padding: 0 10px 0 14px;
-      height 30px;
-      width 30px;
+      padding 0 10px 0 14px;
 }
 input{
       border: none;
